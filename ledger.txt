@@ -1,0 +1,24 @@
+001|Accounts|2023-06-16|Product Promotions|1231|debit|12000
+001|Accounts|2023-06-01|Fliers for product 1|1222|debit|3000
+001|Accounts|2023-01-10|Marketing product 1| 111|debit|12000
+001|Accounts|2023-02-10|Marketing product 1| 112|debit|12000
+001|Accounts|2023-04-10|Marketing product 1| 113|debit|12000
+001|Accounts|2023-03-10|Marketing product 1| 114|debit|12000
+001|Accounts|2023-01-02|IT Costs|1221|debit|20000
+001|Accounts|2023-02-02|IT Costs|2221|debit|20000
+001|Accounts|2023-03-02|IT Costs|3221|debit|20000
+001|Accounts|2023-04-02|IT Costs|4221|debit|20000
+001|Accounts|2023-05-02|IT Costs|5221|debit|20000
+101|Sales|2023-06-16|Product Promotions|1231|credit|12000
+102|Advertising|2023-06-01|Fliers for product 1|1222|credit|3000
+103|Human Resources|2023-06-09|Training Program|5342|credit|15000
+201|Marketing|2023-01-09|Marketing product 1|111|credit|12000
+201|Marketing|2023-02-09|Marketing product 1|112|credit|12000
+201|Marketing|2023-03-09|Marketing product 1|114|credit|12000
+201|Marketing|2023-04-09|Marketing product 1|113|credit|12000
+505|IT|2023-01-02|IT Costs|1221|credit|20000
+505|IT|2023-02-02|IT Costs|2221|credit|20000
+505|IT|2023-03-02|IT Costs|3221|credit|20000
+505|IT|2023-04-02|IT Costs|4221|credit|20000
+505|IT|2023-05-02|IT Costs|5221|credit|20000
+124|Sales|2023-06-22|Product Promotions|218|credit|4567001|Accounts|2023-06-30|Fliers for product 1|1990|credit|1990

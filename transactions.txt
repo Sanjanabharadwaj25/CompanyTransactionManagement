@@ -1,0 +1,4 @@
+123|ABC|2023-06-11|Auto Expense|1271|credit
+123|ABC|2023-06-11|Auto Expense|1271|credit
+123|ABC|2023-06-11|Auto Expense|1271|credit
+123|ABC|2023-06-11|Auto Expense|1271|credit

@@ -1,0 +1,7 @@
+0|101|Sales|2023-06-16|Product Promotions|1231|credit|12000
+1|001|Accounts|2023-06-16|Product Promotions|1231|debit|12000
+2|102|Advertising|2023-06-01|Fliers for product 1|1222|credit|3000
+3|001|Accounts|2023-06-01|Fliers for product 1|1222|debit|3000
+4|103|Human Resources|2023-06-09|Training Program|5342|credit|15000
+5|124|Sales|2023-06-22|Product Promotions|218|credit|4567
+6|001|Accounts|2023-06-30|Fliers for product 1|1990|credit|1990

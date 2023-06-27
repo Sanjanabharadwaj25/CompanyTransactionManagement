@@ -1,0 +1,43 @@
+html{
+    font-family:'Open Sans';
+    box-sizing: border-box;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+background-image: url(photo.jpg);
+}
+
+ .container {
+    margin: 150px auto;
+    padding: 20px;
+    background-color: #e7e5e59d;
+    border: 1px solid #fcfbfb;
+    border-radius: 5px;  
+    box-shadow: 0 10px 8px 10px rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    
+  }
+  #MainNav {
+    font-size:1.5rem;
+    font-weight:100;
+    background-color: black;
+}
+#MainNav .nav-link{
+    color: #fff;
+}
+#MainNav .nav-link:hover{
+    color: #EA1c2c;
+}
+#MainNav .navbar-brand{
+    color: #EA1c2c;
+    font-size :1.5rem;
+}
+#selected{
+    color: #EA1c2c !important;
+}
+
+.btn{
+    margin-right: 120px !important;
+}
